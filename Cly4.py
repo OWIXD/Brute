@@ -161,9 +161,9 @@ def banner():
 \t[whute] ______
 \t[white]|  ___|__  _ __ ___ ___  
 \t[white]| |_ / _ \| '__/ __/ _ \ || Multi Brute Force
-\t[white]|  _| (_) | | | (_|  __/ || Developer OWI-XD
+\t[white]|  _| (_) | | | (_|  __/ || Developer Bala-Bala
 \t[white]|_|  \___/|_|  \___\___| || Version 1.8.7
-             [bold white]Made By [bold red]Indonesian[cyan] OWI-XD [bold white]""",width=70,title=f"[bold green]• [bold yellow]• [bold red]• [bold white]LOGO BANNER [bold red]• [yellow]• [bold green]•",subtitle=f"[bold green]• [bold yellow]• [bold red]• [bold white]Version [bold green]0.1[/] [bold red]• [yellow]• [bold green]•",style=f"{color_table}"))
+             [bold white]Made By BALA-BALA [bold red]Indonesian[cyan] OWI-XD [bold white]""",width=70,title=f"[bold green]• [bold yellow]• [bold red]• [bold white]LOGO BANNER [bold red]• [yellow]• [bold green]•",subtitle=f"[bold green]• [bold yellow]• [bold red]• [bold white]Version [bold green]0.1[/] [bold red]• [yellow]• [bold green]•",style=f"{color_table}"))
 #--------------------[ BAGIAN-MASUK ]--------------#
 def linex():
 	print("%s══════════════════════════════════════════════════════════════════════%s"%(P,P))
@@ -773,9 +773,9 @@ if __name__=='__main__':
 	except:pass
 	try:os.system('clear')
 	except:pass
-	#abdul_rohman(f'\n\t{x}{h}⟺ Hello, Welcome Termux User,Have a nice day And Enjoy ,and wellcome to ARMBF ⟺{x}')
+	#abdul_rohman(f'\n\t{x}{h}⟺ Hello, Welcome Termux User,Have a nice day And Enjoy ,and wellcome to SCRIP⟺{x}')
 	time.sleep(1)
 	login()
 
 #>>>>> THANKS TO THIS HERE <<<<<<<#
-#>>>>> GITHUB.COM/RENVVV <<<<<#
+#>>>>> GITHUB.COM/BALA-BALA <<<<<#
