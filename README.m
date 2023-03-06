@@ -6,10 +6,10 @@ $ pip install requests bs4 futures
 
 $ pip install rich
 
-$ git clone https://github.com/OWIXD/Brute
+$ git clone https://github.com/BALA-BALA/Brute
 
 $ cd Brute
 
 $ git pull
 
-$ python Owi.py
+$ python Cly4.py
